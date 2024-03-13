@@ -1,0 +1,14 @@
+ Le volume dans le lecteur C s'appelle Windows
+ Le num‚ro de s‚rie du volume est A0AF-E8EB
+
+ R‚pertoire de C:\Users\zinao\OneDrive\Bureau\gittest
+
+13/03/2024  11:57    <DIR>          .
+13/03/2024  11:57    <DIR>          ..
+13/03/2024  11:57               433 f1.txt
+13/03/2024  11:57               477 f2.txt
+13/03/2024  11:57               521 f3.txt
+13/03/2024  11:57                 0 f4.txt
+13/03/2024  11:56               389 fichier1.txt
+               5 fichier(s)            1.820 octets
+               2 R‚p(s)  10.918.572.032 octets libres
